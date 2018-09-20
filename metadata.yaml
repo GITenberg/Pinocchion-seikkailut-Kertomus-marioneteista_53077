@@ -1,11 +1,14 @@
 _repo: Pinocchion-seikkailut-Kertomus-marioneteista_53077
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le Avventure di Pinocchio. Finnish
 contributor:
   translator:
     agent_name: Halonen, Maija
     gutenberg_agent_id: '44890'
     url: http://www.gutenberg.org/2009/agents/44890
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collodi, Carlo
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/268
     wikipedia: http://en.wikipedia.org/wiki/Carlo_Collodi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53077#Pinocchion-seikkailut-Kertomus-marioneteista
 gutenberg_issued: '2016-09-18'
 gutenberg_type: Text
 identifiers:
